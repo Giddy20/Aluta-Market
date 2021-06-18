@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996558346105",
+    "project_id": "aluta-market",
+    "storage_bucket": "aluta-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996558346105:android:1669087650f121241a41a8",
+        "android_client_info": {
+          "package_name": "com.aigbogungideon.aluta_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996558346105-bj7gsvo7avsda2644r7d3c7kaegjke00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfsrVd2g9ldxL6CgbCo5xiyaTeOgv5eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996558346105-bj7gsvo7avsda2644r7d3c7kaegjke00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
